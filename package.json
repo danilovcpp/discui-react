@@ -1,0 +1,8 @@
+{
+  "name": "discui-react",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/danilovcpp/discui-react.git",
+  "author": "danilovcpp <danilov.cpp@gmail.com>",
+  "license": "MIT"
+}
